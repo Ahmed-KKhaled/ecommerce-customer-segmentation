@@ -178,19 +178,4 @@ ecommerce-customer-segmentation/
 
 ---
 
-## 🔮 Next Steps
-
-- [ ] Try **DBSCAN** or **Agglomerative Clustering** and compare Silhouette Scores
-- [ ] Add **Apriori / Association Rules** for richer product recommendations
-- [ ] Build an interactive **Streamlit dashboard** for segment exploration
-- [ ] Automate RFM refresh with a scheduled pipeline
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 <p align="center">Made with ❤️ | Give it a ⭐ if you found it useful!</p>
