@@ -16,12 +16,11 @@
 - [Overview](#-overview)
 - [Dataset](#-dataset)
 - [Project Pipeline](#-project-pipeline)
-- [Results & Visualizations](#-results--visualizations)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Tech Stack](#-tech-stack)
-- [Next Steps](#-next-steps)
+-
 
 ---
 
