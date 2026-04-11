@@ -101,26 +101,6 @@ Raw Data
 | Feature Scaling | StandardScaler |
 | Preprocessing | Log1p transform on Frequency & Monetary |
 
-### Sample Visualizations
-
-> 📸 *(Add screenshots of your plots here after running the notebook)*
->
-> Suggested plots to screenshot and upload:
-> - Correlation Heatmap
-> - Elbow Method curve
-> - Recency vs Monetary scatter plot (colored by cluster)
-> - Segment distribution bar chart
-
-```
-notebooks/images/
-├── heatmap.png
-├── elbow_method.png
-├── cluster_scatter.png
-└── segment_distribution.png
-```
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
