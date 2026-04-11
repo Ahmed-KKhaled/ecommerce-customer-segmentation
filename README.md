@@ -20,7 +20,6 @@
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Tech Stack](#-tech-stack)
--
 
 ---
 
