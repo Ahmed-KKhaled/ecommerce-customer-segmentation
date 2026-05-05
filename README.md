@@ -155,12 +155,10 @@ ecommerce-customer-segmentation/
 │
 ├── Recommendation_System_Project/notebook/
 │   ├── ecommerce_rfm_analysis.ipynb   # Main analysis notebook
-│   └── images/                         # Plot screenshots
+│   └── data                       # Dataset
 │
-├── data.csv                            # Dataset (not included — see above)
 ├── requirements.txt                    # Python dependencies
 ├── README.md                           # You are here
-└── LICENSE
 ```
 
 ---
