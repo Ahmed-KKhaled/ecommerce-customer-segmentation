@@ -133,7 +133,7 @@ Download `Online Retail.xlsx` from [UCI Repository](https://archive.ics.uci.edu/
 ### Run the full notebook
 
 ```bash
-jupyter notebook notebooks/ecommerce_rfm_analysis.ipynb
+jupyter notebook Recommendation_System_Project/notebook//ecommerce_rfm_analysis.ipynb
 ```
 
 ### Get product recommendations
@@ -153,7 +153,7 @@ recommend_for_segment(segment='VIP', n=5)
 ```
 ecommerce-customer-segmentation/
 │
-├── notebooks/
+├── Recommendation_System_Project/notebook/
 │   ├── ecommerce_rfm_analysis.ipynb   # Main analysis notebook
 │   └── images/                         # Plot screenshots
 │
