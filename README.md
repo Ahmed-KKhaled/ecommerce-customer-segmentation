@@ -104,7 +104,7 @@ Raw Data
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-customer-segmentation.git
+git clone https://github.com/Ahmed-KKhaled/ecommerce-customer-segmentation.git
 cd ecommerce-customer-segmentation
 ```
 
