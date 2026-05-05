@@ -153,12 +153,13 @@ recommend_for_segment(segment='VIP', n=5)
 ```
 ecommerce-customer-segmentation/
 │
-├── Recommendation_System_Project/notebook/
-│   ├── ecommerce_rfm_analysis.ipynb   # Main analysis notebook
-│   └── data                       # Dataset
+├── Recommendation_System_Project/
+│   └── notebook/
+│       ├── ecommerce_rfm_analysis.ipynb   # Main analysis notebook
+│       └── data/                          # Dataset directory
 │
-├── requirements.txt                    # Python dependencies
-├── README.md                           # You are here
+├── requirements.txt                       # Python dependencies
+└── README.md                              # Project documentation
 ```
 
 ---
